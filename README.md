@@ -11,7 +11,6 @@ The project uses Arduino and ESP32 along with multiple sensors to monitor the su
 - Vehicle detection using IR sensors
 - Distance measurement using HC-SR04 ultrasonic sensors
 - OLED display for distance information
-- 16×2 LCD status display
 - LED-based warning system
 - Buzzer-based proximity alerts
 - Temperature and humidity monitoring using DHT11
